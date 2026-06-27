@@ -70,11 +70,7 @@ Open the local URL it gives you. Sign up, create your store, add a product, then
 3. In the Vercel project's **Environment Variables**, add `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` with the same values from your `.env`.
 4. Deploy. You get a free live URL, and it auto-redeploys every time you push.
 
-## What's built vs. what's left as "planned"
-
 **Built:** auth, store profile management, full product CRUD, public storefront page, PDF catalog export.
-
-**Intentionally left out (mention as "planned" if asked in an interview):** online payments — this needs a registered payment gateway account (Razorpay/Stripe) and business KYC, which isn't realistic for a student project, so it's a deliberate scope cut rather than an oversight.
 
 ## Why "Apna Dukaan"
 
