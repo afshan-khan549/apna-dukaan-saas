@@ -1,11 +1,11 @@
-# Apna Dukaan — SaaS Platform for Local Stores
+# Apna Dukaan: SaaS Platform for Local Stores
 
-A storefront platform for local shop owners: sign up, set up your store, add products or services, and get a shareable public page customers can open in their browser — no app required. Built as a portfolio project for placements.
+A storefront platform for local shop owners: sign up, set up your store, add products or services, and get a shareable public page customers can open in their browser, no app required. 
 
 ## What it does
 
 - **Shop owners** sign up, create a store profile (name, category, description, contact info), and manage a product/service list from a dashboard.
-- **Customers** view a public storefront page at `/store/your-shop-slug` — no login needed.
+- **Customers** view a public storefront page at `/store/your-shop-slug`: no login needed.
 - Shop owners can **export their product list as a PDF catalog** (generated client-side, no server involved).
 
 ## Tech stack
